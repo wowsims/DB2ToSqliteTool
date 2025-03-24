@@ -2,9 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CascLib" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DBCD" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TACTSharp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/WoWDBDefs" vcs="Git" />
   </component>
 </project>
