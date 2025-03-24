@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB2ToSqliteTool", "DB2ToSqliteTool\DB2ToSqliteTool.csproj", "{16752903-6079-46A8-9147-B38CAFC763F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CascLib", "CascLib\CascLib\CascLib.csproj", "{9C61914A-C8C0-4A64-BFFA-BF1ADC4054B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBCD", "DBCD\DBCD\DBCD.csproj", "{1F5BD03F-5623-4C39-8AA6-B3830B0BA8E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBCD.IO", "DBCD\DBCD.IO\DBCD.IO.csproj", "{D5F8B675-6E48-48AA-841C-76EA4DE44BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TACTSharp", "TACTSharp\TACTSharp\TACTSharp.csproj", "{57744E98-2573-492F-8B30-52AD87E84AA6}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16752903-6079-46A8-9147-B38CAFC763F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16752903-6079-46A8-9147-B38CAFC763F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16752903-6079-46A8-9147-B38CAFC763F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16752903-6079-46A8-9147-B38CAFC763F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57744E98-2573-492F-8B30-52AD87E84AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57744E98-2573-492F-8B30-52AD87E84AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57744E98-2573-492F-8B30-52AD87E84AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57744E98-2573-492F-8B30-52AD87E84AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+[submodule "DBCD"]
+	path = DBCD
+	url = git@github.com:wowdev/DBCD.git
+[submodule "TACTSharp"]
+	path = TACTSharp
+	url = git@github.com:wowdev/TACTSharp.git
